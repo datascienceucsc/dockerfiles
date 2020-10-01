@@ -1,5 +1,6 @@
 # dockerfiles
-Starter Dockerfiles for fast environment setup
+
+Starter Dockerfiles for simple and reproducible environment setup.
 
 | name | description | version |
 | --- | --- | ---|
